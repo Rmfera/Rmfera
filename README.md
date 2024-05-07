@@ -8,7 +8,12 @@
   
 </div>
 
-![Snake animation](https://github.com/Rmfera/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" alt="snake eating my contributions" srcset="https://raw.githubusercontent.com/Rmfera/Rmfera/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rmfera/Rmfera/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
