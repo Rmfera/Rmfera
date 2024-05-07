@@ -3,15 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <style>
-        #titulo{
-            text-align: center;
-            color: #0000ff;            
-        }
-    </style>
 </head>
 <body>    
-    <h1 align="center" id="titulo">Meu Próprio Read-me</h1>
+    <h1 align="center" color=#0000ff>Meu Próprio Read-me</h1>
 <div align="center">
   <h3>My Programming tools</h3>
     
