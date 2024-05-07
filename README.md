@@ -8,7 +8,7 @@
   <a href="#como-rodar"><li>Como rodar</li></a>
 </ul>
 
-### Descrição
+# Descrição
 Projeto criado para o desenvolvimento de um To do List fictício, task proposta pela Escola DNC.
 <div align="center">
   <h3>My Programming tools</h3>
