@@ -6,5 +6,7 @@
   
 </div>
 
+![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
+
 
 
