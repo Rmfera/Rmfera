@@ -3,18 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <style>
-        {
-            text-align: center;
-            color: blue;
-            
-        }
-    </style>
-    
+       
 </head>
 <body>
     <marquee>oi</marquee>
-    <h1 id="titulo">Meu Próprio Read-me</h1>
+    <h1 align="center">Meu Próprio Read-me</h1>
     
 <div align="center">
   <h3>My Programming tools</h3>
