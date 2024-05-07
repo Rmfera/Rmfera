@@ -7,9 +7,9 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,postgres,postman,git,github,vscode,windows)](https://skillicons.dev)
   
 </div>
-<div align="center">
-  ![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+#  ![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
