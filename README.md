@@ -1,4 +1,4 @@
-<h1 align="center" align="center" style="color:red;">Meu Próprio Read-me</h1>
+<h1 style="color:red;">Meu Próprio Read-me</h1>
 <div align="center">
   <h3>My Programming tools</h3>
     
