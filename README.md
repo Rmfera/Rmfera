@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <script>
+        h1{
+            text - align: center;
+        }
+    </script>
 </head>
 <body>
     <h1>Meu Próprio Read-me.md</h1>
