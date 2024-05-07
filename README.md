@@ -6,7 +6,7 @@
        
 </head>
 <body>
-    <marquee>oi</marquee>
+    
     <h1 align="center>Meu Próprio Read-me</h1>
     
 <div align="center">
