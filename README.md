@@ -8,7 +8,7 @@
   
 </div>
 
-![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rmfera/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
