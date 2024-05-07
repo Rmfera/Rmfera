@@ -8,7 +8,7 @@
             text-align: center;
         }
     </style>
-    </script>
+    
 </head>
 <body>
     <h1>Meu Próprio Read-me.md</h1>
