@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 # Meu nome é Reinaldo
-<marquee>Teste</marquee>
-<h1 align="center">Meu Próprio Read-me</h1>
+
+<h1 align="center"><marquee>Teste</marquee>Meu Próprio Read-me</h1>
 <div align="center">
 <h3>My Programming tools</h3>    
   
