@@ -7,7 +7,8 @@
     
 </head>
 <body>
-    <marquee><h1 color="lightblue">Meu Próprio Read-me</h1></marquee>
+    <marquee>oi</marquee>
+    <h1 align="center" color="lightblue">Meu Próprio Read-me</h1>
     
 <div align="center">
   <h3>My Programming tools</h3>
