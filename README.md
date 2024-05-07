@@ -1,6 +1,6 @@
 <h1 align="center">Meu Próprio Read-me</h1>
 <ul>
-  <a href="#My Programming tools"><li>Descrição</li></a>  
+  <a href="#My Programming tools"><li>My Programming tools</li></a>  
 </ul>
 Projeto criado para o desenvolvimento de um To do List fictício, task proposta pela Escola DNC.
 <div align="center">
