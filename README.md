@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <style>
-        #titulo{
-            text-align: center;
-        }
-    </style>
+   
     
 </head>
 <body>
     <h1 id="titulo">Meu Próprio Read-me</h1>
+    <style>
+        #titulo{
+            text-align: center;
+        }
+    </style>
     <div align="center">
   <h3>My Programming tools</h3>
 
