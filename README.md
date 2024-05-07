@@ -5,10 +5,11 @@
 <h3>My Programming tools</h3>
     
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,postgres,postman,git,github,vscode,windows)](https://skillicons.dev)
+  [![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-[![Snake animation](https://github.com/Rmfera/Rmfera/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
