@@ -4,7 +4,7 @@
 </ul>
 Projeto criado para o desenvolvimento de um To do List fictício, task proposta pela Escola DNC.
 <div align="center">
-<h3>My Programming tools</h3>
+#<h3>My Programming tools</h3>
     
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,postgres,postman,git,github,vscode)](https://skillicons.dev)
   
