@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">       
 </head>
 <body>    
-    <marquee><h1 align="center">Meu Próprio Read-me</h1> </marquee>   
+    <marquee><h1 align="center">Meu Próprio Read-me</h1></marquee>   
 <div align="center">
   <h3>My Programming tools</h3>
     
