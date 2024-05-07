@@ -10,7 +10,7 @@
     <div align="center">
   <h3>My Programming tools</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,linux,markdown,vercel,powershell,netlify,npm,obsidian,githubactions,vite,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,netlify,vscode)](https://skillicons.dev)
 </div>
 </body>
 </html>
