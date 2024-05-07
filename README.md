@@ -6,7 +6,7 @@
 </head>
 <body>    
     <marquee><h1 align="center">Meu Próprio Read-me</h1></marquee>
-    <marquee>Teste</marquee>
+    <marquee direction="left">Texto</marquee>
 <div align="center">
   <h3>My Programming tools</h3>
     
