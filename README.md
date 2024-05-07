@@ -7,13 +7,8 @@
     
 </head>
 <body>
-    <h1 id="titulo">Meu Próprio Read-me</h1>
-    <style>
-        #titulo{
-            text-align: center;
-        }
-    </style>
-    
+    <h1 align="center">Meu Próprio Read-me</h1>
+<div align="center">
   <h3>My Programming tools</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,postman,github,vscode)](https://skillicons.dev)
