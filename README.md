@@ -10,7 +10,7 @@
 - 📫 Como entrar em contato comigo: ...
 - ⚡ Curiosidade: ...
 
-<h1 align="center">Meu Próprio Read-me</h1>
+<h1 align="center">Meu Read-me</h1>
 <div align="center">
 <h3>My Programming tools</h3>    
   
