@@ -14,7 +14,7 @@
 <div align="center">
 <h3>My Programming tools</h3>    
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,c,java,postgres,sqlite,postman,git,github,vscode,windows)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,node,c,java,postgres,sqlite,postman,git,github,vscode,windows)](https://skillicons.dev)  
   
 </div>
 
